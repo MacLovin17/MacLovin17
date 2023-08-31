@@ -16,6 +16,8 @@ I have knowledge about:
 <div style="display: inline_block"><br>
    <img alt="c++" src="https://img.shields.io/badge/VisualBasic-VBA-dark">
   <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+  
    ![Snake animation](https://github.com/MacLovin17/MacLovin17/blob/output/github-contribution-grid-snake.svg)
 </div>
 
