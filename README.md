@@ -18,7 +18,7 @@ I have knowledge about:
   <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
   
-   ![Snake animation](https://github.com/MacLovin17/MacLovin17/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 
@@ -28,4 +28,4 @@ I have knowledge about:
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacLovin17&show_icons=true&theme=dark)
 
-
+  ![Snake animation](https://github.com/MacLovin17/MacLovin17/blob/output/github-contribution-grid-snake.svg)
