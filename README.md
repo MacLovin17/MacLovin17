@@ -13,15 +13,15 @@
 
 ###
 
-<h3 align="left">- 🎓 I am currently studying Analysis and Development of ADS IFTM Systems (Instituto Federal do Triangulo Mineiro).</h3>
+<h4 align="left">- 🎓 I am currently studying Analysis and Development of ADS IFTM Systems (Instituto Federal do Triangulo Mineiro).</h3>
 
 ###
 
-<h3 align="left">- 💻 I am currently working as a IT Analyst.</h3>
+<h4 align="left">- 💻 I am currently working as a IT Analyst.</h3>
 
 ###
 
-<h3 align="left">-💡 I have knowledge in...</h3>
+<h4 align="left">-💡 I have knowledge in...</h3>
 
 ###
 
