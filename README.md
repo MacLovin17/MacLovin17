@@ -46,7 +46,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MacLovin17/MacLovin17/output/snake.svg" alt="Snake animation" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dionatas-thomaz/dionatas-thomaz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dionatas-thomaz/dionatas-thomaz/output/github-contribution-grid-snake-dark.svg">
+  <img align=
 
 ###
 
